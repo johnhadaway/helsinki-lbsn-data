@@ -10,7 +10,6 @@ The datasets are derived from cumulative observations of venue activity, as of 0
 The observations were elaborated using the Urban Activity Wheel methodology for categorisation described in "Optional and necessary activities: Operationalising Jan Gehl’s analysis of urban space with Foursquare data," written by Damiano Cerrone, Jesús López Baeza, and Panu Lehtovuori (Cerrone et al. 2020). Using the Urban Activity Wheel methodology, Foursquare venues were categorised into 10 groups, each mapping to an urban activity. The categories, together, are an approximation of "all activities capable of being performed in the city," combining Jan Gehl's categorisation with more recent research (Cerrone et al. 2020). The categories are as follows: Taking care, Income*, Nutrition*, Mobility, Education, Civic, Leisure, Social, Consumption, and Personal care. A description of each of these buckets can be found in the table below (Cerrone et al. 2020). 
 
 &nbsp;
-<div style="font-size: 0.5rem;">
 |Category | Description|
 |---|---|
 |Taking Care| To maintain or improve the condition of health (i.e., hospital, doctor, dentist, health centre)|
@@ -23,7 +22,6 @@ The observations were elaborated using the Urban Activity Wheel methodology for 
 |Social| To be in companionship with others (i.e., bar, nightclub, café, home party, dinner)|
 |Consumption| To make use of a good or service (i.e., stores, boutiques, retail, supermarket)|
 |Personal Care| To maintain or improve the condition of comfort, wellbeing, fitness (i.e., sports, spa, nail care, make up)|
-</div>
 &nbsp;
 
 After cleaning the data, the venue-level observations (Foursquare visits, Foursquare users) were subsequently aggregated, by category, into useful scales of analysis: postal codes (for which we have Paavo postal code area statistics, produced by Statistics Finland) and H3 cells, at both resolution 9 (0.1053325 km<sup>2</sup> on average, and 4,842,432,842 unique indexes globally) and 8 (0.7373276 km<sup>2</sup> on average, and 691,776,122 unique indexes globally). At each of these scales, additional metrics were calculated: the number of visits per user, the number of visits per inhabitant, the percentage of visits that can be attributed to each activity category, the percentage of users that can be attributed to each activity category, the entropy of activities based on the distribution of these categories, and so on. See a psuedo-replication of the columns of the datasets in the table below. 
