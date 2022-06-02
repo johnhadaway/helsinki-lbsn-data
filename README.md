@@ -1,11 +1,17 @@
 # 01/01/2022 FS_UrbanActivityWheel
-<img width="500" alt="Screenshot 2022-06-02 at 16 46 57" src="https://user-images.githubusercontent.com/24534722/171678237-ba3bdcce-65b5-4da5-b444-540baaafd80f.png">
+<img width="1500" alt="total visits h3-9" src="https://user-images.githubusercontent.com/24534722/171681932-2a1f5a0e-ab48-494c-970d-906265c0eaa7.png">
 
 <br>
 <br>
 
 ## Introduction
 The datasets here were proccessed and analysed as part of the University of Tampere's Muuttuva käsitys lähiöstä tiivistyvässä kaupungissa (Changing perceptions of the suburbs in a condensing city) project, which is part of the Ministry of the Environment's Suburb Programme 2020–2022 and funded by the Housing Finance and Development Centre of Finland (ARA).
+
+<br>
+<br>
+
+## Guide
+The folder 01_01_2022_FS_UrbanActivityWheel contains 4 sub-folders: H3_RES8, H3_RES9, POSTAL_CODES, and kepler.gl. The first three, each representing a different spatial resolution, contain cleaned, processed data, in both a GeoJSON and GeoPackage format. The fourth, to facilitate more exploratory use, contains saved map data and config as JSON files, which can be uploaded directly to kepler.gl's web interface. 
 
 <br>
 <br>
