@@ -32,8 +32,10 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 
 *For the postal data, you can find a description, in English, of the additional columns taken from Statistics Finland [here](https://tilastokeskus.fi/static/media/uploads/tup/paavo/paavo2022_pitkakuvaus_en.pdf)*
 
+&nbsp;
 
 ### Visualisations
+
 
 
 
