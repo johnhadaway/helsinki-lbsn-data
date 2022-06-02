@@ -6,12 +6,16 @@ The observations were elaborated using a methodology for categorisation describe
 
 |Bucket | Description|
 |----|----|
-|Taking care| To maintain or improve the condition of health (i.e., hospital, doctor, dentist, health centre)|
+|Taking Care| To maintain or improve the condition of health (i.e., hospital, doctor, dentist, health centre)|
 |Income| To receive a payment for a good or service (i.e., office spaces, or any other working activity)|
-|Nutrition|  To consume food with no other purpose (i.e., food that is ready to be eaten)|
-|Mobility|  Horizontal physical displacement by a means of transport (i.e., transportation nodes or stations, commuting, travelling)|
+|Nutrition| To consume food with no other purpose (i.e., food that is ready to be eaten)|
+|Mobility| Horizontal physical displacement by a means of transport (i.e., transportation nodes or stations, commuting, travelling)|
 |Education| To learn by being taught (i.e., schools, kindergarten, university, people studying)|
 |Civic| To pertain to citizenship (i.e., rallies, parades, public events and commemorations, volunteering, going to church, all activities that are part of the civic life of one community)|
+|Leisure|To recreate by making use of the freedom from demands of work or duty (i.e., picnic, playing, reading, exhibition, sunbathing, walking the dog)|
+|Social| To be in companionship with others (i.e., bar, nightclub, café, home party, dinner)|
+|Consumption| To make use of a good or service (i.e., stores, boutiques, retail, supermarket)|
+|Personal Care| To maintain or improve the condition of comfort, wellbeing, fitness (i.e., sports, spa, nail care, make up)|
 
 
 
