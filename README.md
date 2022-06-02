@@ -20,7 +20,13 @@ The observations were elaborated using a methodology for categorisation describe
 
 &nbsp;
 
-The venue-level observations (Foursquare visits, Foursquare users) were subsequently aggregated, by category, into useful scales of analysis: postal codes (for which we have Paavo postal code area statistics, produced by Statistics Finland) and H3 cells, at both resolution 9 (0.1053325 km<sup>2</sup>, and 4,842,432,842 unique indexes globally) and 8 (0.7373276 km<sup>2</sup>, and 691,776,122 unique indexes globally). 
+After cleaning, the venue-level observations (Foursquare visits, Foursquare users) were subsequently aggregated, by category, into useful scales of analysis: postal codes (for which we have Paavo postal code area statistics, produced by Statistics Finland) and H3 cells, at both resolution 9 (0.1053325 km<sup>2</sup> on average, and 4,842,432,842 unique indexes globally) and 8 (0.7373276 km<sup>2</sup> on average, and 691,776,122 unique indexes globally). At each of these scales, additional metrics were calculated for each spatial unit: the number of visits per user, the number of visits per inhabitant, the percentage of visits that can be attributed to each activity bucket, the percentage of users that can be attributed to each activity bucket, the percentage of venues that can be attributed to each activity bucket, the number of visits per user for each activity bucket, the diversity of activities, and so on. A meta-level description of a row in each of the datasets can be found below. 
+
+&nbsp;
+|ID | Bucket_CHECKINS | Bucket_PERCENTAGE_TOTAL_POSTAL_VISITS | Bucket_PERCENTAGE_TOTAL_POSTAL_USERS | Bucket_PERCENTAGE_TOTAL_POSTAL_VENUES | Bucket_USERS | Bucket_VENUES | Bucket_VISITS | Bucket_VISITS_PER_INHABITANT | Bucket_VISITS_PER_USER | Bucket_VISITS_PER_VENUE | WHEEL_CATEGORIES_ENTROPY | OPNEC_ENTROPY |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
 
 
 
