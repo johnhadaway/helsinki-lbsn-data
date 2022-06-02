@@ -5,7 +5,7 @@ The datasets here were proccessed and analysed as part of the University of Tamp
 
 The observations were elaborated using a methodology for categorisation described in "Optional and necessary activities: Operationalising Jan Gehl’s analysis of urban space with Foursquare data," written by Damiano Cerrone, Jesús López Baeza, and Panu Lehtovuori (Cerrone et al. 2020). Using its methodology, venues were categorised into 10 buckets, each mapping to an urban activity. The buckets, together, are an approximation of "all activities capable of being performed in the city," combining Jan Gehl's categorisation with more recent research (Cerrone et al. 2020). The buckets are as follows: *Taking care*, *Income*, *Nutrition*, *Mobility*, *Education*, *Civic*, *Leisure*, *Social*, *Consumption*, and *Personal care*. A description of each of these buckets can be found in the table below (Cerrone et al. 2020). 
 
-
+&nbsp;
 |Bucket | Description|
 |----|----|
 |Taking Care| To maintain or improve the condition of health (i.e., hospital, doctor, dentist, health centre)|
@@ -18,7 +18,7 @@ The observations were elaborated using a methodology for categorisation describe
 |Social| To be in companionship with others (i.e., bar, nightclub, café, home party, dinner)|
 |Consumption| To make use of a good or service (i.e., stores, boutiques, retail, supermarket)|
 |Personal Care| To maintain or improve the condition of comfort, wellbeing, fitness (i.e., sports, spa, nail care, make up)|
-
+&nbsp;
 
 
 
