@@ -11,7 +11,7 @@ The datasets here were proccessed and analysed as part of the University of Tamp
 <br>
 
 ## Guide
-The folder 01_01_2022_FS_UrbanActivityWheel contains 4 sub-folders: H3_RES8, H3_RES9, POSTAL_CODES, and KEPLER.GL. The first three, each representing a different spatial resolution, contain cleaned, processed data, in both a GeoJSON and GPKG format. The fourth, to facilitate more exploratory use, contains saved map data and config as Json files, which can be uploaded directly to kepler.gl's web interface. 
+The folder 01_01_2022_FS_UrbanActivityWheel contains 4 sub-folders: H3_RES8, H3_RES9, POSTAL_CODES, and KEPLER.GL. The first three, each representing a different spatial resolution, contain cleaned, processed data, in both a GeoJSON and GeoPackage format. The fourth, to facilitate more exploratory use, contains saved map data and config as JSON files, which can be uploaded directly to kepler.gl's web interface. 
 
 <br>
 <br>
