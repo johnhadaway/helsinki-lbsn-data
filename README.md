@@ -36,12 +36,12 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 
 ### Visualisations
 
-<a href="https://datawrapper.dwcdn.net/IZ1gY/7/" target="_blank"><img width="750" alt="COMPOSITION OF VISITS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171668385-ef685ca5-4520-4cf5-9044-c03594943bb1.png"></a>
+<a href="https://datawrapper.dwcdn.net/IZ1gY/7/" target="_blank"><img width="750" alt="COMPOSITION OF VISITS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171668385-ef685ca5-4520-4cf5-9044-c03594943bb1.png"></a><br>
 The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/IZ1gY/7/) for the interactive visualisation, made with Data Wrapper.</p>
 
 &nbsp;
 
-<a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="750" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a>
+<a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="750" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a><br>
 The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.
 
 
