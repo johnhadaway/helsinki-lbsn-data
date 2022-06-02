@@ -10,6 +10,12 @@ The datasets here were proccessed and analysed as part of the University of Tamp
 <br>
 <br>
 
+## Guide
+There are two sub-folders: 01_01_2022_FS_UrbanActivityWheel and KEPLER.GL presets. The former contains cleaned, processed data, aggregated into meaningful spatial units. The latter contains saved map data and config as Json files, which can be uploaded directly to kepler.gl's web interface. 
+
+<br>
+<br>
+
 ## Methods
 The datasets are derived from cumulative observations of venue activity, as of 01/01/2022, retrieved via the Foursquare Places API. The bounding box for these observations is defined by the following points (WGS84): SW (60.059, 24.485), NE (60.585, 25.226). The observations were elaborated using the Urban Activity Wheel methodology for categorisation described in "Optional and necessary activities: Operationalising Jan Gehl’s analysis of urban space with Foursquare data," written by Damiano Cerrone, Jesús López Baeza, and Panu Lehtovuori (Cerrone et al. 2020). Using the Urban Activity Wheel methodology, Foursquare venues were categorised into 10 groups, each mapping to an urban activity. The categories, together, are an approximation of "all activities capable of being performed in the city," combining Jan Gehl's categorisation with more recent research (Cerrone et al. 2020). The categories are as follows: Taking care, Income*, Nutrition*, Mobility, Education, Civic, Leisure, Social, Consumption, and Personal care. A description of each of these categories (Cerrone et al. 2020): 
 
