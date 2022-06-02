@@ -29,6 +29,11 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 |ID | Category_CHECKINS | Category_PERCENTAGE_TOTAL_VISITS | Category_PERCENTAGE_TOTAL_USERS | Category_PERCENTAGE_TOTAL_VENUES | Category_USERS | Category_VENUES | Category_VISITS | Category_VISITS_PER_INHABITANT | Category_VISITS_PER_USER | Category_VISITS_PER_VENUE | WHEEL_CATEGORIES_ENTROPY | OPNEC_ENTROPY |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Any ID columns. In the case of H3 grid cells, the index. In the case of Finnish postal codes, "postinumeroalue" and "nimi" | The total number of checkins in the geographical unit that can be attributed to the respective activity category | The percentage of visits in the geographical unit that can be attributed to the respective activity category | The percentage of users in the geographical unit that can be attributed to the respective activity category | The percentage of venues in the geographical unit that can be attributed to the respective activity category | The total number of users in the geographical unit that can be attributed to the respective activity category | The total number of venues in the geographical unit that can be attributed to the respective activity category | The total number of visits in the geographical unit that can be attributed to the respective activity category | The ratio between the total number of visits in the geographical unit that can be attributed to the respective activity category and the total number of inhabitants | The ratio between the total number of visits and users in the geographical unit that can be attributed to the respective activity category | The ratio between the total number of visits and venues in the geographical unit that can be attributed to the respective activity category | The entropy based on the distribution of activities according to the 10 categories above | The entropy based on the distribution of activities according to a higher-level optional-necessary categorisation of the 10 categories (Cerrone et al. 2020) |
+*For the postal data, you can find a description, in English, of the columns taken from Statistics Finland [here](https://tilastokeskus.fi/static/media/uploads/tup/paavo/paavo2022_pitkakuvaus_en.pdf)*
+
+
+### Visualisations
+
 
 
 
