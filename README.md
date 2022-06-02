@@ -32,23 +32,17 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |Any ID columns. In the case of H3 grid cells, the index. In the case of Finnish postal codes, "postinumeroalue" and "nimi" | The total number of checkins in the geographical unit that can be attributed to the respective activity category | The percentage of visits in the geographical unit that can be attributed to the respective activity category | The percentage of users in the geographical unit that can be attributed to the respective activity category | The percentage of venues in the geographical unit that can be attributed to the respective activity category | The total number of users in the geographical unit that can be attributed to the respective activity category | The total number of venues in the geographical unit that can be attributed to the respective activity category | The total number of visits in the geographical unit that can be attributed to the respective activity category | The ratio between the total number of visits in the geographical unit that can be attributed to the respective activity category and the total number of inhabitants | The ratio between the total number of visits and users in the geographical unit that can be attributed to the respective activity category | The ratio between the total number of visits and venues in the geographical unit that can be attributed to the respective activity category | The entropy based on the distribution of activities according to the 10 categories above | The entropy based on the distribution of activities according to a higher-level optional-necessary categorisation of the 10 categories (Cerrone et al. 2020) |
 
-*For the postal data, you can find a description, in English, of the additional columns taken from Statistics Finland [here](https://tilastokeskus.fi/static/media/uploads/tup/paavo/paavo2022_pitkakuvaus_en.pdf)*
-
 &nbsp;
 
 ### Visualisations
 
-<div style="text-align:center; content-align:center">
-  <a href="https://datawrapper.dwcdn.net/IZ1gY/7/" target="_blank"><img width="750" alt="COMPOSITION OF VISITS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171668385-ef685ca5-4520-4cf5-9044-c03594943bb1.png"></a>
-  <p>The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/IZ1gY/7/) for the interactive visualisation, made with Data Wrapper.</p>
-</div>.
-
+<a href="https://datawrapper.dwcdn.net/IZ1gY/7/" target="_blank"><img width="750" alt="COMPOSITION OF VISITS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171668385-ef685ca5-4520-4cf5-9044-c03594943bb1.png"></a>
+The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/IZ1gY/7/) for the interactive visualisation, made with Data Wrapper.</p>
 
 &nbsp;
 
 <a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="750" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a>
-&nbsp;
-*The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.*
+The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.
 
 
 
