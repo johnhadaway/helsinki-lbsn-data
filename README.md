@@ -18,6 +18,10 @@ The observations were elaborated using a methodology for categorisation describe
 |Consumption| To make use of a good or service (i.e., stores, boutiques, retail, supermarket)|
 |Personal Care| To maintain or improve the condition of comfort, wellbeing, fitness (i.e., sports, spa, nail care, make up)|
 
+&nbsp;
+
+The venue-level observations (Foursquare visits, Foursquare users) were subsequently aggregated, by category, into useful scales of analysis: postal codes (for which we have Paavo postal code area statistics, produced by Statistics Finland) and H3 cells, at both resolution 9 (0.1053325 km<sup>2</sup>, and 4,842,432,842 unique indexes globally) and 8 (0.7373276 km<sup>2</sup>, and 691,776,122 unique indexes globally). 
+
 
 
 
