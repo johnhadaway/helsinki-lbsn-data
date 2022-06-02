@@ -18,6 +18,7 @@ The observations were elaborated using a methodology for categorisation describe
 |Social| To be in companionship with others (i.e., bar, nightclub, café, home party, dinner)|
 |Consumption| To make use of a good or service (i.e., stores, boutiques, retail, supermarket)|
 |Personal Care| To maintain or improve the condition of comfort, wellbeing, fitness (i.e., sports, spa, nail care, make up)|
+|----|----|
 &nbsp;
 
 
