@@ -53,10 +53,10 @@ The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020
 <a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="750" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a><br>
 The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.
 
-<a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="750" alt="h3-9" src="https://user-images.githubusercontent.com/24534722/171683681-8ee6bd79-d625-485b-9a90-9418af7ab3d6.png"></a><br>
+<img width="750" alt="h3-9" src="https://user-images.githubusercontent.com/24534722/171683681-8ee6bd79-d625-485b-9a90-9418af7ab3d6.png"><br>
 Saved map data and config for this data aggregated up into H3 cells (resolution 9). See 01_01_2022_FS_UrbanActivityWheel/kepler.gl for the JSON.
 
-<a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"<img width="750" alt="postal" src="https://user-images.githubusercontent.com/24534722/171683600-08e43e20-d162-4613-a986-b57c2bf7ebe5.png"></a><br>
+<img width="750" alt="postal" src="https://user-images.githubusercontent.com/24534722/171683600-08e43e20-d162-4613-a986-b57c2bf7ebe5.png"><br>
 Saved map data and config for this data aggregated up into postal codes. See 01_01_2022_FS_UrbanActivityWheel/kepler.gl for the JSON.
 
 
