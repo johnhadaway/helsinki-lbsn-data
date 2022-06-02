@@ -43,7 +43,7 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 
 &nbsp;
 
-<a href=https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="1425" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a>
+<a href="https://datawrapper.dwcdn.net/yonUm/1/" target="_blank"><img width="1425" alt="COMPOSITION OF USERS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171671578-ae470ca9-af20-4588-9b69-40ae2ee2129a.png"></a>
 *The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.*
 
 
