@@ -39,10 +39,7 @@ After cleaning the data, the venue-level observations (Foursquare visits, Foursq
 ### Visualisations
 
 <a href="https://datawrapper.dwcdn.net/IZ1gY/7/" target="_blank"><img width="1440" alt="COMPOSITION OF VISITS BY POSTAL CODE" src="https://user-images.githubusercontent.com/24534722/171662753-73a5f871-66d5-45a8-b1b2-7cd06e44399c.png"></a>
-*The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/IZ1gY/7/) for the interactive visualisation, made with DataWrapper.
-
-
-*
+*The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/IZ1gY/7/) for the interactive visualisation, made with DataWrapper.*
 
 
 
