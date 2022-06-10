@@ -51,7 +51,7 @@ level optional-necessary categorisation of the 10 categories (Cerrone et al. 202
 <a href="https://datawrapper.dwcdn.net/XCiYB/3/" target="_blank"><img width="750" alt="Relative Frequency of Visits by Cat" src="https://user-images.githubusercontent.com/24534722/173084140-928616b4-7662-4801-8234-90776ef538c5.png"></a><br>
 The distribution of visits by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here](https://datawrapper.dwcdn.net/XCiYB/3/) for the interactive visualisation, made with Data Wrapper.</p>
 
-<a href="https://datawrapper.dwcdn.net/rgRdH/2/" target="_blank"><img width="1440" alt="Relative Frequency of Users by Cat" src="https://user-images.githubusercontent.com/24534722/173084690-e7b0ccfb-4ad0-4428-8b4a-85cb67dc2ced.png"></a><br>
+<a href="https://datawrapper.dwcdn.net/rgRdH/2/" target="_blank"><img width="750" alt="Relative Frequency of Users by Cat" src="https://user-images.githubusercontent.com/24534722/173084690-e7b0ccfb-4ad0-4428-8b4a-85cb67dc2ced.png"></a><br>
 The distribution of users by Urban Activity Wheel category (Cerrone et al. 2020) in each postal code. Click [here]([https://datawrapper.dwcdn.net/yonUm/1/) for the interactive visualisation, made with Data Wrapper.
 
 <img width="750" alt="h3-9" src="https://user-images.githubusercontent.com/24534722/171683681-8ee6bd79-d625-485b-9a90-9418af7ab3d6.png"><br>
