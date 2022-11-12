@@ -1,5 +1,7 @@
-# 01/01/2022 FS_UrbanActivityWheel
-<img width="50%" alt="total visits h3-9" src="https://user-images.githubusercontent.com/24534722/171681932-2a1f5a0e-ab48-494c-970d-906265c0eaa7.png">
+<div align="center" style="margin-top: 5px; margin-bottom: 10px;">
+  <img width="50%" alt="total visits h3-9" src="https://user-images.githubusercontent.com/24534722/171681932-2a1f5a0e-ab48-494c-970d-906265c0eaa7.png">
+  <h1>Greater Helsinki LBSN data</h1>
+</div>
 
 ## Introduction
 The datasets here were proccessed and analysed as part of the University of Tampere's Muuttuva käsitys lähiöstä tiivistyvässä kaupungissa (Changing perceptions of the suburbs in a condensing city) project, which is part of the Ministry of the Environment's Suburb Programme 2020–2022 and funded by the Housing Finance and Development Centre of Finland (ARA).
