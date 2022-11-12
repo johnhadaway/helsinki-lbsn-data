@@ -1,5 +1,4 @@
 <div align="center" style="margin-top: 5px; margin-bottom: 10px;">
-  <img width="50%" alt="total visits h3-9" src="https://user-images.githubusercontent.com/24534722/171681932-2a1f5a0e-ab48-494c-970d-906265c0eaa7.png">
   <h1>Greater Helsinki LBSN data</h1>
 </div>
 
